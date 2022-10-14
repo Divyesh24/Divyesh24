@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divyesh24
+- 👋 Hi, I’m Divyesh Mangroliya
 - 👀 I’m interested in Artificial intelligence and Machine learning
 - 📫 Please Do Follow and Connect with me on [LinkedIN](https://www.linkedin.com/in/divyesh-mangroliya)
 
