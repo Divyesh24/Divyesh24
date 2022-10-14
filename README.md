@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Divyesh24
 - 👀 I’m interested in Artificial intelligence and Machine learning
-- 📫 How to reach me on LinkedIN(https://www.linkedin.com/in/divyesh-mangroliya)
+- 📫 How to reach me on [LinkedIN](https://www.linkedin.com/in/divyesh-mangroliya)
 
+- Participated in HACKTOBERFEST 2020 & 2022. See this bedge👇
 [![@divyesh24's Holopin board](https://holopin.me/divyesh24)](https://holopin.io/@divyesh24)
 
 <!---
